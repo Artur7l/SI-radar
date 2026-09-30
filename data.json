@@ -1,8 +1,8 @@
 {
- "updated": 1790796279.8720498,
+ "updated": 1790798623.4271808,
  "trends": [
   {
-   "term": "phillies score",
+   "term": "australia vs south africa",
    "sources": [
     "Google Trends"
    ],
@@ -13,7 +13,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -29,7 +29,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -45,7 +45,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -61,12 +61,12 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "phillies",
+   "term": "ps5 pro",
    "sources": [
     "Google Trends"
    ],
@@ -77,7 +77,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -93,7 +93,7 @@
    "potential": 26,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -109,12 +109,12 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "graziers raw milk cheese recall",
+   "term": "john kruk",
    "sources": [
     "Google Trends"
    ],
@@ -125,7 +125,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -141,7 +141,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -163,7 +163,29 @@
    "potential": 23,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Wallets",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 8,
+    "new48h": 6,
+    "top": "NUTFLEX",
+    "top_vol24h": 951,
+    "top_fdv": 3323,
+    "top_liq": 0,
+    "top_chg24h": -12.32
+   },
+   "potential": 22,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -179,7 +201,7 @@
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -195,12 +217,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "atlanta braves",
+   "term": "marsha blackburn sues jack smith",
    "sources": [
     "Google Trends"
    ],
@@ -211,29 +233,7 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Derivatives",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 83,
-   "coins": {
-    "count": 30,
-    "new48h": 30,
-    "top": "MRNA",
-    "top_vol24h": 73766,
-    "top_fdv": 0,
-    "top_liq": 0,
-    "top_chg24h": -100
-   },
-   "potential": 20,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -249,7 +249,7 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790796279.8720498,
+   "assessed_at": 1790798623.4271808,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
