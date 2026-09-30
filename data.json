@@ -1,0 +1,53 @@
+{
+ "updated": 1790775843.4881492,
+ "terms": [
+  {
+   "term": "Super Intelligence",
+   "recent": 18,
+   "day": 109,
+   "ratio": 1.3
+  },
+  {
+   "term": "White House Accord",
+   "recent": 10,
+   "day": 100,
+   "ratio": 0.8
+  },
+  {
+   "term": "SI race",
+   "recent": 3,
+   "day": 47,
+   "ratio": 0.5
+  },
+  {
+   "term": "Frontier SI",
+   "recent": 1,
+   "day": 40,
+   "ratio": 0.2
+  },
+  {
+   "term": "AI self-regulation",
+   "recent": 2,
+   "day": 100,
+   "ratio": 0.2
+  }
+ ],
+ "coins": {
+  "SI": "Super Inu",
+  "SUPERI": "Superintelligence",
+  "S": "SuperIntelligence",
+  "WHAOSI": "White House Accord on Super Intelligence",
+  "SS": "Super Stonk",
+  "RESI": "Reside",
+  "BOT": "Dot.com",
+  "THESIS": "Thesis AI",
+  "CSI": "Chinese Super Inu",
+  "ACTII": "Act II: The SI Prophecy",
+  "HI": "Hallow Inu",
+  "BonnieAI": "BonnieAI",
+  "ASI": "American Super Intelligence",
+  "SIWIF": "Super Intelligence WIF",
+  "POTUS": "President Of The Unites States"
+ },
+ "last_alert": {}
+}
