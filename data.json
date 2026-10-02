@@ -1,8 +1,8 @@
 {
- "updated": 1790959547.4516296,
+ "updated": 1790975429.3029468,
  "trends": [
   {
-   "term": "tony romo",
+   "term": "benny johnson",
    "sources": [
     "Google Trends"
    ],
@@ -13,12 +13,12 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Decentralized Identifier (DID)",
+   "term": "PolitiFi",
    "sources": [
     "CoinGecko"
    ],
@@ -29,7 +29,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -45,29 +45,7 @@
    "potential": 28,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Christa Pike",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 9,
-    "new48h": 7,
-    "top": "COCKROACH",
-    "top_vol24h": 316,
-    "top_fdv": 108,
-    "top_liq": 0,
-    "top_chg24h": -96.74
-   },
-   "potential": 27,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -83,12 +61,12 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "the walking dead",
+   "term": "owen coyne marblehead",
    "sources": [
     "Google Trends"
    ],
@@ -99,7 +77,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -115,7 +93,7 @@
    "potential": 26,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -126,7 +104,7 @@
    ],
    "strength": 72,
    "coins": {
-    "count": 1,
+    "count": 2,
     "new48h": 0,
     "top": "Bella",
     "top_vol24h": 1,
@@ -137,12 +115,28 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "mountain dew pitch black",
+   "term": "Data Availability",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 0
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1790975429.3029468,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "belgium vs turkey",
    "sources": [
     "Google Trends"
    ],
@@ -153,7 +147,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -169,7 +163,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -181,17 +175,17 @@
    "strength": 84,
    "coins": {
     "count": 26,
-    "new48h": 21,
+    "new48h": 22,
     "top": "7",
     "top_vol24h": 103818,
-    "top_fdv": 3376,
+    "top_fdv": 3371,
     "top_liq": 0,
-    "top_chg24h": -25.75
+    "top_chg24h": -25.87
    },
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -207,12 +201,12 @@
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "homelessness",
+   "term": "tony reno",
    "sources": [
     "Google Trends"
    ],
@@ -223,7 +217,7 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -239,29 +233,29 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "SocialFi",
+   "term": "Christa Pike",
    "sources": [
-    "CoinGecko"
+    "Wikipedia"
    ],
-   "strength": 83,
+   "strength": 100,
    "coins": {
-    "count": 16,
-    "new48h": 13,
-    "top": "SocialFi",
-    "top_vol24h": 17222,
-    "top_fdv": 3294,
+    "count": 11,
+    "new48h": 10,
+    "top": "CHRISTA ",
+    "top_vol24h": 840,
+    "top_fdv": 3353,
     "top_liq": 0,
-    "top_chg24h": -25.99
+    "top_chg24h": -14.73
    },
-   "potential": 16,
+   "potential": 18,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1790959547.4516296,
+   "assessed_at": 1790975429.3029468,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
