@@ -1,5 +1,5 @@
 {
- "updated": 1791439439.5344968,
+ "updated": 1791466165.894557,
  "trends": [
   {
    "term": "Christa Pike",
@@ -19,29 +19,7 @@
    "potential": 36,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Pons Launchpad",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 2,
-    "new48h": 2,
-    "top": "EMBERPONS",
-    "top_vol24h": 3650,
-    "top_fdv": 3318,
-    "top_liq": 0,
-    "top_chg24h": -2.86
-   },
-   "potential": 36,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -52,23 +30,45 @@
    ],
    "strength": 96,
    "coins": {
-    "count": 3,
+    "count": 2,
     "new48h": 1,
     "top": "RIPSAINT",
-    "top_vol24h": 143,
+    "top_vol24h": 121,
     "top_fdv": 3244,
     "top_liq": 0,
-    "top_chg24h": -8.29
+    "top_chg24h": -3.62
    },
    "potential": 34,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "brewers next game",
+   "term": "Nidal Hasan",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 92,
+   "coins": {
+    "count": 3,
+    "new48h": 1,
+    "top": "Nidal",
+    "top_vol24h": 2446,
+    "top_fdv": 5025,
+    "top_liq": 4645,
+    "top_chg24h": -20.21
+   },
+   "potential": 33,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1791466165.894557,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "refinance home loan",
    "sources": [
     "Google Trends"
    ],
@@ -79,12 +79,28 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "mlb schedule",
+   "term": "Privacy Coins",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 0
+   },
+   "potential": 30,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1791466165.894557,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "trump iran",
    "sources": [
     "Google Trends"
    ],
@@ -95,7 +111,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -111,29 +127,7 @@
    "potential": 26,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Nidal Hasan",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 92,
-   "coins": {
-    "count": 4,
-    "new48h": 2,
-    "top": "Nidal",
-    "top_vol24h": 2584,
-    "top_fdv": 5296,
-    "top_liq": 4853,
-    "top_chg24h": -28.84
-   },
-   "potential": 25,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -149,12 +143,12 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Dex Aggregator",
+   "term": "Zero Knowledge (ZK)",
    "sources": [
     "CoinGecko"
    ],
@@ -165,12 +159,12 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "shanghai masters",
+   "term": "josh brolin",
    "sources": [
     "Google Trends"
    ],
@@ -181,7 +175,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -197,7 +191,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -213,12 +207,12 @@
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "semana mundial del espacio 2026",
+   "term": "pokemon ruby sapphire",
    "sources": [
     "Google Trends"
    ],
@@ -229,7 +223,7 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -245,7 +239,7 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -256,18 +250,18 @@
    ],
    "strength": 72,
    "coins": {
-    "count": 11,
-    "new48h": 4,
+    "count": 7,
+    "new48h": 2,
     "top": "MESSI",
-    "top_vol24h": 350,
-    "top_fdv": 3332,
+    "top_vol24h": 97,
+    "top_fdv": 3333,
     "top_liq": 0,
-    "top_chg24h": -14.29
+    "top_chg24h": null
    },
-   "potential": 12,
+   "potential": 19,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791439439.5344968,
+   "assessed_at": 1791466165.894557,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
