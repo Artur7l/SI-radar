@@ -1,5 +1,5 @@
 {
- "updated": 1791567188.0805268,
+ "updated": 1791582770.0687923,
  "trends": [
   {
    "term": "Nidal Hasan",
@@ -8,62 +8,18 @@
    ],
    "strength": 88,
    "coins": {
-    "count": 10,
-    "new48h": 7,
+    "count": 15,
+    "new48h": 11,
     "top": "Nidal",
-    "top_vol24h": 149720,
-    "top_fdv": 69858,
-    "top_liq": 22678,
-    "top_chg24h": 1275
+    "top_vol24h": 137618,
+    "top_fdv": 73460,
+    "top_liq": 23281,
+    "top_chg24h": 217
    },
-   "potential": 58,
-   "verdict": "Mittel",
-   "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "aurora",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 90,
-   "coins": {
-    "count": 16,
-    "new48h": 0,
-    "top": "AURORA",
-    "top_vol24h": 99097,
-    "top_fdv": 58820972,
-    "top_liq": 435044,
-    "top_chg24h": 6.24
-   },
-   "potential": 39,
+   "potential": 38,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Nana Patekar",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "$NANA",
-    "top_vol24h": 5,
-    "top_fdv": 3061,
-    "top_liq": 0,
-    "top_chg24h": null
-   },
-   "potential": 36,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -85,7 +41,7 @@
    "potential": 34,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -107,12 +63,12 @@
    "potential": 33,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "huracán isaias",
+   "term": "texas vs oklahoma",
    "sources": [
     "Google Trends"
    ],
@@ -123,14 +79,14 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Privacy Blockchain",
+   "term": "Nana Patekar",
    "sources": [
-    "CoinGecko"
+    "Wikipedia"
    ],
    "strength": 100,
    "coins": {
@@ -139,29 +95,23 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Iraq",
+   "term": "dow jones industrial average",
    "sources": [
-    "Wikipedia"
+    "Google Trends"
    ],
-   "strength": 68,
+   "strength": 90,
    "coins": {
-    "count": 10,
-    "new48h": 0,
-    "top": "IQD",
-    "top_vol24h": 1285,
-    "top_fdv": 33451,
-    "top_liq": 14440,
-    "top_chg24h": 7.63
+    "count": 0
    },
-   "potential": 30,
+   "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -177,12 +127,28 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "nathan gallagher",
+   "term": "Airdropped Tokens by NFT Projects",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 0
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1791582770.0687923,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "rc lens vs olympique lyon standings",
    "sources": [
     "Google Trends"
    ],
@@ -193,7 +159,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -209,29 +175,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Wallets",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 83,
-   "coins": {
-    "count": 10,
-    "new48h": 6,
-    "top": "wallets",
-    "top_vol24h": 997,
-    "top_fdv": 3063,
-    "top_liq": 0,
-    "top_chg24h": -33.95
-   },
-   "potential": 22,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -247,7 +191,7 @@
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -263,12 +207,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "ted lasso - season 4",
+   "term": "tui cruises danube low water",
    "sources": [
     "Google Trends"
    ],
@@ -279,7 +223,51 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1791567188.0805268,
+   "assessed_at": 1791582770.0687923,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Iraq",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 68,
+   "coins": {
+    "count": 11,
+    "new48h": 0,
+    "top": "IQD",
+    "top_vol24h": 1489,
+    "top_fdv": 35832,
+    "top_liq": 14966,
+    "top_chg24h": 16.89
+   },
+   "potential": 20,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1791582770.0687923,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "DeFAI",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 12,
+    "new48h": 0,
+    "top": "DEFAI",
+    "top_vol24h": 77,
+    "top_fdv": 14356,
+    "top_liq": 1222,
+    "top_chg24h": -92.83
+   },
+   "potential": 18,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1791582770.0687923,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
