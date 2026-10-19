@@ -1,100 +1,90 @@
 {
- "updated": 1792374232.3400304,
+ "updated": 1792392933.6359136,
  "trends": [
   {
-   "term": "Quantum-Resistant",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 0
-   },
-   "potential": 30,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "russia",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 80,
-   "coins": {
-    "count": 25,
-    "new48h": 9,
-    "top": "ROR",
-    "top_vol24h": 43711,
-    "top_fdv": 1534839,
-    "top_liq": 104599,
-    "top_chg24h": 3456
-   },
-   "potential": 29,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "cowboys backup qb",
+   "term": "strait of hormuz",
    "sources": [
     "Google Trends"
    ],
    "strength": 90,
    "coins": {
-    "count": 0
+    "count": 4,
+    "new48h": 2,
+    "top": "SOH",
+    "top_vol24h": 5575,
+    "top_fdv": 13204,
+    "top_liq": 18230,
+    "top_chg24h": 6.65
    },
-   "potential": 27,
-   "verdict": "Niedrig",
+   "potential": 41,
+   "verdict": "Mittel",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "snow",
+   "term": "Rollup",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 1,
+    "new48h": 0,
+    "top": "ZKSol",
+    "top_vol24h": 4,
+    "top_fdv": 218,
+    "top_liq": 1,
+    "top_chg24h": -78.18
+   },
+   "potential": 36,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792392933.6359136,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "fuel",
    "sources": [
     "Google Trends"
    ],
    "strength": 100,
    "coins": {
-    "count": 28,
-    "new48h": 15,
-    "top": "SNOW",
-    "top_vol24h": 1548919,
-    "top_fdv": 104226,
-    "top_liq": 97,
-    "top_chg24h": 1051
+    "count": 12,
+    "new48h": 1,
+    "top": "FUEL",
+    "top_vol24h": 543,
+    "top_fdv": 25836,
+    "top_liq": 16551,
+    "top_chg24h": 14.22
    },
-   "potential": 25,
+   "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Zero Knowledge (ZK)",
+   "term": "diesel fuel",
    "sources": [
-    "CoinGecko"
+    "Google Trends"
    ],
-   "strength": 83,
+   "strength": 80,
    "coins": {
     "count": 0
    },
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "jamie lee curtis",
+   "term": "ashlyn krueger",
    "sources": [
     "Google Trends"
    ],
@@ -105,12 +95,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Bitcoin Sidechains",
+   "term": "Layer 2 (L2)",
    "sources": [
     "CoinGecko"
    ],
@@ -121,12 +111,12 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "sacha baron cohen new movie",
+   "term": "evan stewart",
    "sources": [
     "Google Trends"
    ],
@@ -137,12 +127,34 @@
    "potential": 18,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "johnny depp",
+   "term": "Derivatives",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 15,
+    "new48h": 14,
+    "top": "CRML",
+    "top_vol24h": 22270,
+    "top_fdv": 0,
+    "top_liq": 0,
+    "top_chg24h": -100
+   },
+   "potential": 16,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792392933.6359136,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "spacex launch jellyfish",
    "sources": [
     "Google Trends"
    ],
@@ -153,12 +165,12 @@
    "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "SideChain",
+   "term": "Real World Assets (RWA)",
    "sources": [
     "CoinGecko"
    ],
@@ -169,12 +181,12 @@
    "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "ali g who iz i",
+   "term": "red dead redemption 2",
    "sources": [
     "Google Trends"
    ],
@@ -185,12 +197,28 @@
    "potential": 12,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "kevin hart",
+   "term": "CoinList Launchpad",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 33,
+   "coins": {
+    "count": 0
+   },
+   "potential": 9,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792392933.6359136,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "better call saul",
    "sources": [
     "Google Trends"
    ],
@@ -201,67 +229,45 @@
    "potential": 9,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Launchpad",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 33,
-   "coins": {
-    "count": 16,
-    "new48h": 7,
-    "top": "RevopadX",
-    "top_vol24h": 38294,
-    "top_fdv": 2853,
-    "top_liq": 0,
-    "top_chg24h": -48.56
-   },
-   "potential": 8,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "jeremiah trotter",
+   "term": "quentin tarantino",
    "sources": [
     "Google Trends"
    ],
    "strength": 20,
    "coins": {
-    "count": 0
+    "count": 1,
+    "new48h": 1,
+    "top": "QUENTIN",
+    "top_vol24h": 2,
+    "top_fdv": 2910,
+    "top_liq": 0,
+    "top_chg24h": -0.07
    },
-   "potential": 6,
+   "potential": 7,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Rollup",
+   "term": "Optimism Superchain Ecosystem",
    "sources": [
     "CoinGecko"
    ],
    "strength": 17,
    "coins": {
-    "count": 1,
-    "new48h": 0,
-    "top": "ZKSol",
-    "top_vol24h": 3,
-    "top_fdv": 1018,
-    "top_liq": 2,
-    "top_chg24h": 1.93
+    "count": 0
    },
-   "potential": 6,
+   "potential": 5,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792374232.3400304,
+   "assessed_at": 1792392933.6359136,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
