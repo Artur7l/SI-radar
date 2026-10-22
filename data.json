@@ -1,52 +1,30 @@
 {
- "updated": 1792621310.9014063,
+ "updated": 1792630111.3250122,
  "trends": [
   {
-   "term": "Privacy",
+   "term": "AI Agents",
    "sources": [
     "CoinGecko"
    ],
-   "strength": 83,
+   "strength": 67,
    "coins": {
-    "count": 28,
-    "new48h": 15,
-    "top": "SHADOW",
-    "top_vol24h": 382942,
-    "top_fdv": 80643,
-    "top_liq": 24198,
-    "top_chg24h": 90.78
+    "count": 9,
+    "new48h": 5,
+    "top": "1F916",
+    "top_vol24h": 19272,
+    "top_fdv": 1365664,
+    "top_liq": 356654,
+    "top_chg24h": -6.68
    },
-   "potential": 37,
+   "potential": 33,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "You Can See Everything",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 88,
-   "coins": {
-    "count": 2,
-    "new48h": 0,
-    "top": "EVERYTHING",
-    "top_vol24h": 1638,
-    "top_fdv": 5346,
-    "top_liq": 0,
-    "top_chg24h": -27.32
-   },
-   "potential": 31,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "orlando magic",
+   "term": "toluca - tijuana",
    "sources": [
     "Google Trends"
    ],
@@ -57,12 +35,12 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Data Availability",
+   "term": "Venice Ecosystem",
    "sources": [
     "CoinGecko"
    ],
@@ -73,50 +51,12 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Helen Haines",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 84,
-   "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "legless",
-    "top_vol24h": 88,
-    "top_fdv": 2984,
-    "top_liq": 0,
-    "top_chg24h": -0.42
-   },
-   "potential": 30,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Jailer 2",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 96,
-   "coins": {
-    "count": 0
-   },
-   "potential": 28,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "nba games tonight",
+   "term": "ja morant",
    "sources": [
     "Google Trends"
    ],
@@ -127,159 +67,195 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "dow jones industrial average",
+   "term": "AI Applications",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 0
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792630111.3250122,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "michael porter jr",
+   "sources": [
+    "Google Trends"
+   ],
+   "strength": 80,
+   "coins": {
+    "count": 0
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792630111.3250122,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "ace bailey",
+   "sources": [
+    "Google Trends"
+   ],
+   "strength": 60,
+   "coins": {
+    "count": 0
+   },
+   "potential": 18,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792630111.3250122,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "suns",
    "sources": [
     "Google Trends"
    ],
    "strength": 70,
    "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "DOWJONESIN",
-    "top_vol24h": 11,
-    "top_fdv": 3014,
+    "count": 18,
+    "new48h": 8,
+    "top": "SUNSET",
+    "top_vol24h": 58562,
+    "top_fdv": 48276,
     "top_liq": 0,
-    "top_chg24h": -0.31
+    "top_chg24h": 527
    },
-   "potential": 25,
+   "potential": 16,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Elizabeth Holmes",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 92,
-   "coins": {
-    "count": 4,
-    "new48h": 2,
-    "top": "HOLMES",
-    "top_vol24h": 125,
-    "top_fdv": 4124,
-    "top_liq": 4228,
-    "top_chg24h": -4.57
-   },
-   "potential": 24,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "estados unidos",
+   "term": "pelle larsson",
    "sources": [
     "Google Trends"
    ],
-   "strength": 80,
+   "strength": 50,
    "coins": {
     "count": 0
    },
-   "potential": 24,
+   "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Luke McCaffrey",
+   "term": "Automated Market Maker (AMM)",
    "sources": [
-    "Wikipedia"
+    "CoinGecko"
    ],
-   "strength": 80,
+   "strength": 50,
    "coins": {
     "count": 0
    },
-   "potential": 24,
+   "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "ChatGPT",
+   "term": "sion james",
    "sources": [
-    "Wikipedia"
+    "Google Trends"
    ],
-   "strength": 76,
-   "coins": {
-    "count": 30,
-    "new48h": 8,
-    "top": "ChatGPT",
-    "top_vol24h": 110022,
-    "top_fdv": 1914,
-    "top_liq": 1943,
-    "top_chg24h": -95.72
-   },
-   "potential": 21,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Hunter Schafer",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 72,
+   "strength": 40,
    "coins": {
     "count": 0
    },
-   "potential": 21,
+   "potential": 12,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Street Fighter (2026 film)",
+   "term": "darryn peterson",
    "sources": [
-    "Wikipedia"
+    "Google Trends"
    ],
-   "strength": 68,
+   "strength": 30,
    "coins": {
     "count": 0
    },
-   "potential": 20,
+   "potential": 9,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Kim Jong Un",
+   "term": "Launchpad",
    "sources": [
-    "Wikipedia"
+    "CoinGecko"
    ],
-   "strength": 100,
+   "strength": 33,
    "coins": {
-    "count": 12,
-    "new48h": 5,
-    "top": "sol",
-    "top_vol24h": 495,
-    "top_fdv": 130,
+    "count": 18,
+    "new48h": 3,
+    "top": "QDAY",
+    "top_vol24h": 31796,
+    "top_fdv": 6940,
     "top_liq": 0,
-    "top_chg24h": -95.74
+    "top_chg24h": 121
    },
-   "potential": 18,
+   "potential": 8,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1792621310.9014063,
+   "assessed_at": 1792630111.3250122,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "zion williamson",
+   "sources": [
+    "Google Trends"
+   ],
+   "strength": 20,
+   "coins": {
+    "count": 0
+   },
+   "potential": 6,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792630111.3250122,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Quantum-Resistant",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 17,
+   "coins": {
+    "count": 0
+   },
+   "potential": 5,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1792630111.3250122,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
