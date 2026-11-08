@@ -1,52 +1,8 @@
 {
- "updated": 1794147932.7068267,
+ "updated": 1794164261.5104914,
  "trends": [
   {
-   "term": "Made in USA",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 1,
-    "new48h": 0,
-    "top": "MIU",
-    "top_vol24h": 0,
-    "top_fdv": 4017,
-    "top_liq": 0,
-    "top_chg24h": null
-   },
-   "potential": 36,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "alcaraz",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 80,
-   "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "Alcrack",
-    "top_vol24h": 23163,
-    "top_fdv": 4,
-    "top_liq": 0,
-    "top_chg24h": -61.83
-   },
-   "potential": 32,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "nfl defense rankings",
+   "term": "malik willis",
    "sources": [
     "Google Trends"
    ],
@@ -57,12 +13,50 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "what is captain's day fortnite",
+   "term": "Real World Assets (RWA)",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 0
+   },
+   "potential": 30,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794164261.5104914,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Made in USA",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 1,
+    "new48h": 0,
+    "top": "MIU",
+    "top_vol24h": 0,
+    "top_fdv": 4017,
+    "top_liq": 0,
+    "top_chg24h": null
+   },
+   "potential": 29,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794164261.5104914,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "is taylor swift at the chiefs game today",
    "sources": [
     "Google Trends"
    ],
@@ -73,78 +67,28 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Liquid Staking",
+   "term": "isack hadjar",
    "sources": [
-    "CoinGecko"
+    "Google Trends"
    ],
-   "strength": 50,
+   "strength": 80,
    "coins": {
-    "count": 6,
-    "new48h": 0,
-    "top": "TLS",
-    "top_vol24h": 14387,
-    "top_fdv": 1247602,
-    "top_liq": 175540,
-    "top_chg24h": -8.74
-   },
-   "potential": 25,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Solana Meme",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 67,
-   "coins": {
-    "count": 3,
-    "new48h": 0,
-    "top": "SMSE",
-    "top_vol24h": 5,
-    "top_fdv": 965,
-    "top_liq": 1886,
-    "top_chg24h": -1.88
+    "count": 0
    },
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Meme",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 83,
-   "coins": {
-    "count": 18,
-    "new48h": 9,
-    "top": "MEME",
-    "top_vol24h": 115831,
-    "top_fdv": 3200,
-    "top_liq": 0,
-    "top_chg24h": -18.8
-   },
-   "potential": 22,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "bijan robinson",
+   "term": "sauce gardner",
    "sources": [
     "Google Trends"
    ],
@@ -155,12 +99,28 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "ja'marr chase",
+   "term": "Pons Launchpad",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 67,
+   "coins": {
+    "count": 0
+   },
+   "potential": 20,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794164261.5104914,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "chase young",
    "sources": [
     "Google Trends"
    ],
@@ -171,12 +131,34 @@
    "potential": 18,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "mike gesicki",
+   "term": "SocialFi",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 50,
+   "coins": {
+    "count": 2,
+    "new48h": 0,
+    "top": "TiTi",
+    "top_vol24h": 47,
+    "top_fdv": 2009,
+    "top_liq": 929,
+    "top_chg24h": -6.07
+   },
+   "potential": 18,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794164261.5104914,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "dallas cowboys vs colts match player stats",
    "sources": [
     "Google Trends"
    ],
@@ -187,12 +169,34 @@
    "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "zelda switch 2 pro controller",
+   "term": "Launchpad",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 33,
+   "coins": {
+    "count": 18,
+    "new48h": 8,
+    "top": "POKE",
+    "top_vol24h": 754417,
+    "top_fdv": 137077,
+    "top_liq": 78,
+    "top_chg24h": 1283
+   },
+   "potential": 13,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794164261.5104914,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "greg desrosiers jr.",
    "sources": [
     "Google Trends"
    ],
@@ -203,28 +207,12 @@
    "potential": 12,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Liquid Staking Governance Tokens",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 33,
-   "coins": {
-    "count": 0
-   },
-   "potential": 9,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "is george pickens playing this week",
+   "term": "courtland sutton",
    "sources": [
     "Google Trends"
    ],
@@ -235,12 +223,12 @@
    "potential": 9,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "judi dench",
+   "term": "chris johnson",
    "sources": [
     "Google Trends"
    ],
@@ -251,23 +239,29 @@
    "potential": 6,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Proof of Work (PoW)",
+   "term": "Solana Meme",
    "sources": [
     "CoinGecko"
    ],
    "strength": 17,
    "coins": {
-    "count": 0
+    "count": 3,
+    "new48h": 0,
+    "top": "SMSE",
+    "top_vol24h": 5,
+    "top_fdv": 965,
+    "top_liq": 1886,
+    "top_chg24h": -1.88
    },
-   "potential": 5,
+   "potential": 6,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794147932.7068267,
+   "assessed_at": 1794164261.5104914,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
