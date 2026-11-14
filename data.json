@@ -1,30 +1,8 @@
 {
- "updated": 1794675307.8238592,
+ "updated": 1794690460.2391798,
  "trends": [
   {
-   "term": "Base Native",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 1,
-    "new48h": 0,
-    "top": "NATIVEBASE",
-    "top_vol24h": 1564,
-    "top_fdv": 2035,
-    "top_liq": 2053,
-    "top_chg24h": -18.09
-   },
-   "potential": 36,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "kenneth walker",
+   "term": "haití - estados unidos",
    "sources": [
     "Google Trends"
    ],
@@ -35,29 +13,23 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Chris Van Hollen",
+   "term": "Centralized Exchange (CEX) Token",
    "sources": [
-    "Wikipedia"
+    "CoinGecko"
    ],
-   "strength": 84,
+   "strength": 100,
    "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "$Sen",
-    "top_vol24h": 81,
-    "top_fdv": 2238,
-    "top_liq": 0,
-    "top_chg24h": -2.92
+    "count": 0
    },
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -73,12 +45,12 @@
    "potential": 28,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "georgia tech vs clemson",
+   "term": "lsu vs gonzaga",
    "sources": [
     "Google Trends"
    ],
@@ -89,7 +61,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -100,8 +72,8 @@
    ],
    "strength": 100,
    "coins": {
-    "count": 26,
-    "new48h": 22,
+    "count": 28,
+    "new48h": 23,
     "top": "JENSEN",
     "top_vol24h": 2831157,
     "top_fdv": 571282,
@@ -111,12 +83,28 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "World Liberty Financial Portfolio",
+   "term": "Chris Van Hollen",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 84,
+   "coins": {
+    "count": 0
+   },
+   "potential": 25,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794690460.2391798,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Alleged SEC Securities",
    "sources": [
     "CoinGecko"
    ],
@@ -127,12 +115,12 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "nebraska vs rutgers",
+   "term": "jessica pegula",
    "sources": [
     "Google Trends"
    ],
@@ -143,7 +131,29 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Mauricio Pochettino",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 68,
+   "coins": {
+    "count": 1,
+    "new48h": 1,
+    "top": "Mauricio",
+    "top_vol24h": 746,
+    "top_fdv": 2030,
+    "top_liq": 0,
+    "top_chg24h": -1.47
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -155,7 +165,7 @@
    "strength": 88,
    "coins": {
     "count": 30,
-    "new48h": 18,
+    "new48h": 17,
     "top": "NVIDIA",
     "top_vol24h": 792120,
     "top_fdv": 25,
@@ -165,7 +175,7 @@
    "potential": 23,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -181,7 +191,7 @@
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -197,12 +207,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "noruega - gales",
+   "term": "big 10 standings",
    "sources": [
     "Google Trends"
    ],
@@ -213,23 +223,7 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Mauricio Pochettino",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 68,
-   "coins": {
-    "count": 0
-   },
-   "potential": 20,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -240,18 +234,18 @@
    ],
    "strength": 92,
    "coins": {
-    "count": 27,
-    "new48h": 4,
+    "count": 23,
+    "new48h": 3,
     "top": "KRESS",
-    "top_vol24h": 4996,
-    "top_fdv": 5232,
-    "top_liq": 4928,
-    "top_chg24h": -38.63
+    "top_vol24h": 4183,
+    "top_fdv": 6214,
+    "top_liq": 5526,
+    "top_chg24h": 9.88
    },
    "potential": 16,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -262,8 +256,8 @@
    ],
    "strength": 80,
    "coins": {
-    "count": 11,
-    "new48h": 8,
+    "count": 13,
+    "new48h": 9,
     "top": "Theorist",
     "top_vol24h": 2617,
     "top_fdv": 2104,
@@ -273,7 +267,7 @@
    "potential": 14,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794675307.8238592,
+   "assessed_at": 1794690460.2391798,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
