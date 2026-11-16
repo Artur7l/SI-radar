@@ -1,8 +1,96 @@
 {
- "updated": 1794788241.4106326,
+ "updated": 1794812610.1951294,
  "trends": [
   {
-   "term": "49ers schedule",
+   "term": "AI Agents",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 5,
+    "new48h": 0,
+    "top": "1F916",
+    "top_vol24h": 2119,
+    "top_fdv": 284736,
+    "top_liq": 129726,
+    "top_chg24h": 3.83
+   },
+   "potential": 37,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Archive of Our Own",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 1,
+    "new48h": 1,
+    "top": "AO3",
+    "top_vol24h": 819,
+    "top_fdv": 2000,
+    "top_liq": 0,
+    "top_chg24h": -2.83
+   },
+   "potential": 36,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Jensen Huang",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 80,
+   "coins": {
+    "count": 30,
+    "new48h": 22,
+    "top": "JENSEN",
+    "top_vol24h": 602884,
+    "top_fdv": 81956,
+    "top_liq": 22450,
+    "top_chg24h": -1.44
+   },
+   "potential": 36,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "fitness",
+   "sources": [
+    "Google Trends"
+   ],
+   "strength": 90,
+   "coins": {
+    "count": 3,
+    "new48h": 0,
+    "top": "MF",
+    "top_vol24h": 2612,
+    "top_fdv": 2559340,
+    "top_liq": 2137,
+    "top_chg24h": -0.84
+   },
+   "potential": 32,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "florence pugh",
    "sources": [
     "Google Trends"
    ],
@@ -13,12 +101,12 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
+   "assessed_at": 1794812610.1951294,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Privacy Blockchain",
+   "term": "Decentralized Finance (DeFi)",
    "sources": [
     "CoinGecko"
    ],
@@ -29,44 +117,98 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
+   "assessed_at": 1794812610.1951294,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "landman season 3",
+   "term": "9/11",
    "sources": [
-    "Google Trends"
+    "Wikipedia"
    ],
-   "strength": 90,
+   "strength": 96,
+   "coins": {
+    "count": 0
+   },
+   "potential": 28,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "List of Nazi concentration camps",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 92,
    "coins": {
     "count": 0
    },
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
+   "assessed_at": 1794812610.1951294,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Pons Launchpad",
+   "term": "UFC 334",
    "sources": [
-    "CoinGecko"
+    "Wikipedia"
    ],
-   "strength": 83,
+   "strength": 88,
    "coins": {
     "count": 0
    },
-   "potential": 24,
+   "potential": 26,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
+   "assessed_at": 1794812610.1951294,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "hillary clinton",
+   "term": "List of highest-grossing Indian films",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 84,
+   "coins": {
+    "count": 0
+   },
+   "potential": 25,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Josh Hokit",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 72,
+   "coins": {
+    "count": 1,
+    "new48h": 1,
+    "top": "CHAMP",
+    "top_vol24h": 1,
+    "top_fdv": 2009,
+    "top_liq": 0,
+    "top_chg24h": -0.34
+   },
+   "potential": 25,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "anthony mackie",
    "sources": [
     "Google Trends"
    ],
@@ -77,34 +219,50 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
+   "assessed_at": 1794812610.1951294,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "SocialFi",
+   "term": "Sean Duffy",
    "sources": [
-    "CoinGecko"
+    "Wikipedia"
    ],
-   "strength": 67,
+   "strength": 68,
    "coins": {
-    "count": 2,
-    "new48h": 0,
-    "top": "Casanova",
+    "count": 1,
+    "new48h": 1,
+    "top": "SEAN",
     "top_vol24h": 2,
-    "top_fdv": 1383,
-    "top_liq": 2677,
-    "top_chg24h": 0.84
+    "top_fdv": 2008,
+    "top_liq": 0,
+    "top_chg24h": 0.18
    },
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
+   "assessed_at": 1794812610.1951294,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "syracuse vs st john's",
+   "term": "Full Gear (2026)",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 76,
+   "coins": {
+    "count": 0
+   },
+   "potential": 22,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1794812610.1951294,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "alex bolt",
    "sources": [
     "Google Trends"
    ],
@@ -115,147 +273,7 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "penn state wrestling",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 60,
-   "coins": {
-    "count": 0
-   },
-   "potential": 18,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "darnell washington",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 50,
-   "coins": {
-    "count": 0
-   },
-   "potential": 15,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "IP Meme",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 50,
-   "coins": {
-    "count": 0
-   },
-   "potential": 15,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "germie bernard",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 40,
-   "coins": {
-    "count": 0
-   },
-   "potential": 12,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "derrick white",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 30,
-   "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "WHITE",
-    "top_vol24h": 109,
-    "top_fdv": 1943,
-    "top_liq": 0,
-    "top_chg24h": 1.52
-   },
-   "potential": 10,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Bitcoin Sidechains",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 33,
-   "coins": {
-    "count": 0
-   },
-   "potential": 9,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Meme",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 17,
-   "coins": {
-    "count": 21,
-    "new48h": 14,
-    "top": "MEME",
-    "top_vol24h": 58676,
-    "top_fdv": 2001,
-    "top_liq": 0,
-    "top_chg24h": -47.28
-   },
-   "potential": 7,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "tyler hynes",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 20,
-   "coins": {
-    "count": 0
-   },
-   "potential": 6,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1794788241.4106326,
+   "assessed_at": 1794812610.1951294,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
