@@ -1,68 +1,52 @@
 {
- "updated": 1795173316.818532,
+ "updated": 1795201918.0739894,
  "trends": [
   {
-   "term": "Meme",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 83,
-   "coins": {
-    "count": 16,
-    "new48h": 5,
-    "top": "MEME",
-    "top_vol24h": 72616,
-    "top_fdv": 2608436,
-    "top_liq": 602659,
-    "top_chg24h": -7.88
-   },
-   "potential": 33,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Grand Theft Auto VI",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 29,
-    "new48h": 4,
-    "top": "GTAVI",
-    "top_vol24h": 21646,
-    "top_fdv": 7347925,
-    "top_liq": 230766,
-    "top_chg24h": -6.01
-   },
-   "potential": 32,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "deion sanders",
+   "term": "colts depth chart",
    "sources": [
     "Google Trends"
    ],
    "strength": 100,
    "coins": {
-    "count": 0
+    "count": 1,
+    "new48h": 1,
+    "top": "COLTS",
+    "top_vol24h": 16,
+    "top_fdv": 2042,
+    "top_liq": 0,
+    "top_chg24h": -0.92
    },
-   "potential": 30,
+   "potential": 36,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Proof of Work (PoW)",
+   "term": "sp500",
+   "sources": [
+    "Google Trends"
+   ],
+   "strength": 70,
+   "coins": {
+    "count": 23,
+    "new48h": 16,
+    "top": "SPYx",
+    "top_vol24h": 4525079,
+    "top_fdv": 705197,
+    "top_liq": 229174,
+    "top_chg24h": -2.68
+   },
+   "potential": 33,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795201918.0739894,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "PolitiFi",
    "sources": [
     "CoinGecko"
    ],
@@ -73,7 +57,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -89,7 +73,7 @@
    "potential": 28,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -105,12 +89,12 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "dolar hoje",
+   "term": "bayern vs köln",
    "sources": [
     "Google Trends"
    ],
@@ -121,7 +105,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -137,7 +121,7 @@
    "potential": 26,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -159,12 +143,28 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "india a vs nepal",
+   "term": "Quantum-Resistant",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 0
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795201918.0739894,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "bayern - colonia",
    "sources": [
     "Google Trends"
    ],
@@ -175,29 +175,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Robert Pattinson",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 84,
-   "coins": {
-    "count": 10,
-    "new48h": 3,
-    "top": "007",
-    "top_vol24h": 4706,
-    "top_fdv": 8578,
-    "top_liq": 6920,
-    "top_chg24h": -13.93
-   },
-   "potential": 23,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -208,8 +186,8 @@
    ],
    "strength": 80,
    "coins": {
-    "count": 27,
-    "new48h": 18,
+    "count": 26,
+    "new48h": 10,
     "top": "VICEPAD",
     "top_vol24h": 523726,
     "top_fdv": 24,
@@ -219,23 +197,29 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "new york yankees",
+   "term": "Dario Amodei",
    "sources": [
-    "Google Trends"
+    "Wikipedia"
    ],
-   "strength": 70,
+   "strength": 76,
    "coins": {
-    "count": 0
+    "count": 9,
+    "new48h": 7,
+    "top": "DARIO",
+    "top_vol24h": 411,
+    "top_fdv": 2418,
+    "top_liq": 2428,
+    "top_chg24h": -3.08
    },
-   "potential": 21,
+   "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -251,29 +235,51 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Dario Amodei",
+   "term": "Grand Theft Auto VI",
    "sources": [
     "Wikipedia"
    ],
-   "strength": 76,
+   "strength": 100,
    "coins": {
-    "count": 30,
-    "new48h": 27,
-    "top": "DARIO",
-    "top_vol24h": 2741,
-    "top_fdv": 2500,
+    "count": 29,
+    "new48h": 3,
+    "top": "GTAVI",
+    "top_vol24h": 21849,
+    "top_fdv": 5583,
     "top_liq": 0,
-    "top_chg24h": -31.76
+    "top_chg24h": 74.35
    },
-   "potential": 13,
+   "potential": 19,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795173316.818532,
+   "assessed_at": 1795201918.0739894,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Robert Pattinson",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 84,
+   "coins": {
+    "count": 13,
+    "new48h": 3,
+    "top": "PATTINSON",
+    "top_vol24h": 3602,
+    "top_fdv": 1931,
+    "top_liq": 0,
+    "top_chg24h": -16.87
+   },
+   "potential": 15,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795201918.0739894,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
