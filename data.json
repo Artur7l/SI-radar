@@ -1,28 +1,6 @@
 {
- "updated": 1795509527.4247677,
+ "updated": 1795549386.2243674,
  "trends": [
-  {
-   "term": "Grand Theft Auto VI",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 25,
-    "new48h": 2,
-    "top": "GTAVI",
-    "top_vol24h": 91394,
-    "top_fdv": 376542,
-    "top_liq": 51775,
-    "top_chg24h": -93.22
-   },
-   "potential": 41,
-   "verdict": "Mittel",
-   "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
   {
    "term": "Riemann hypothesis",
    "sources": [
@@ -30,23 +8,23 @@
    ],
    "strength": 80,
    "coins": {
-    "count": 26,
+    "count": 17,
     "new48h": 2,
     "top": "RIEMANN",
-    "top_vol24h": 80705,
-    "top_fdv": 843077,
-    "top_liq": 67059,
-    "top_chg24h": -38.08
+    "top_vol24h": 94346,
+    "top_fdv": 596309,
+    "top_liq": 55485,
+    "top_chg24h": -46.06
    },
-   "potential": 34,
+   "potential": 35,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "aus vs eng",
+   "term": "man city vs napoli",
    "sources": [
     "Google Trends"
    ],
@@ -57,12 +35,12 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Morpho Ecosystem",
+   "term": "Zero Knowledge (ZK)",
    "sources": [
     "CoinGecko"
    ],
@@ -73,34 +51,12 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Base Native",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 83,
-   "coins": {
-    "count": 1,
-    "new48h": 0,
-    "top": "NATIVEBASE",
-    "top_vol24h": 1513,
-    "top_fdv": 1771,
-    "top_liq": 1787,
-    "top_chg24h": -0.24
-   },
-   "potential": 30,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "lucia voice actor",
+   "term": "manchester city - napoli",
    "sources": [
     "Google Trends"
    ],
@@ -111,7 +67,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -123,7 +79,7 @@
    "strength": 96,
    "coins": {
     "count": 29,
-    "new48h": 18,
+    "new48h": 21,
     "top": "JENSEN",
     "top_vol24h": 355044,
     "top_fdv": 1929,
@@ -133,12 +89,28 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "justin timberlake",
+   "term": "Quantum-Resistant",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 83,
+   "coins": {
+    "count": 0
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795549386.2243674,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "como vs aek",
    "sources": [
     "Google Trends"
    ],
@@ -149,7 +121,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -171,7 +143,7 @@
    "potential": 23,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -187,7 +159,7 @@
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -203,12 +175,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "gta 6 criminal profile system",
+   "term": "man overboard",
    "sources": [
     "Google Trends"
    ],
@@ -219,7 +191,7 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -235,7 +207,29 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Grand Theft Auto VI",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 28,
+    "new48h": 4,
+    "top": "GTA6",
+    "top_vol24h": 795,
+    "top_fdv": 1951,
+    "top_liq": 0,
+    "top_chg24h": -25.88
+   },
+   "potential": 18,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -246,18 +240,18 @@
    ],
    "strength": 92,
    "coins": {
-    "count": 22,
+    "count": 24,
     "new48h": 3,
     "top": "MOON",
-    "top_vol24h": 30988,
-    "top_fdv": 2087,
+    "top_vol24h": 30990,
+    "top_fdv": 2005,
     "top_liq": 0,
-    "top_chg24h": -23.63
+    "top_chg24h": -26.63
    },
    "potential": 18,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -268,18 +262,18 @@
    ],
    "strength": 84,
    "coins": {
-    "count": 23,
+    "count": 20,
     "new48h": 6,
     "top": "BLOODANGEL",
-    "top_vol24h": 9495,
-    "top_fdv": 2029,
+    "top_vol24h": 9506,
+    "top_fdv": 1980,
     "top_liq": 0,
-    "top_chg24h": -44.73
+    "top_chg24h": -46.08
    },
    "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795509527.4247677,
+   "assessed_at": 1795549386.2243674,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
