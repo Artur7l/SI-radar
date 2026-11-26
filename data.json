@@ -1,52 +1,8 @@
 {
- "updated": 1795702356.2907152,
+ "updated": 1795734019.6184013,
  "trends": [
   {
-   "term": "Made in USA",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 2,
-    "new48h": 1,
-    "top": "XIUSA",
-    "top_vol24h": 73,
-    "top_fdv": 1858,
-    "top_liq": 0,
-    "top_chg24h": -2.73
-   },
-   "potential": 36,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Ezra Frech",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 96,
-   "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "EzraFrech",
-    "top_vol24h": 159,
-    "top_fdv": 1870,
-    "top_liq": 0,
-    "top_chg24h": -2.21
-   },
-   "potential": 34,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "mortgage rates today",
+   "term": "zach ertz",
    "sources": [
     "Google Trends"
    ],
@@ -57,7 +13,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -73,7 +29,39 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Gaming (GameFi)",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 0
+   },
+   "potential": 30,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795734019.6184013,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Ezra Frech",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 96,
+   "coins": {
+    "count": 0
+   },
+   "potential": 28,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -89,12 +77,12 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "lululemon black friday",
+   "term": "kavontae turpin",
    "sources": [
     "Google Trends"
    ],
@@ -105,7 +93,29 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Grand Theft Auto VI",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 88,
+   "coins": {
+    "count": 21,
+    "new48h": 1,
+    "top": "GTAVI",
+    "top_vol24h": 8671,
+    "top_fdv": 110255,
+    "top_liq": 22618,
+    "top_chg24h": 12.08
+   },
+   "potential": 27,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -127,7 +137,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -143,12 +153,12 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "good morning america",
+   "term": "george pickens",
    "sources": [
     "Google Trends"
    ],
@@ -159,7 +169,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -175,29 +185,29 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Solana Meme",
+   "term": "Aaron Rodgers",
    "sources": [
-    "CoinGecko"
+    "Wikipedia"
    ],
-   "strength": 83,
+   "strength": 68,
    "coins": {
-    "count": 5,
-    "new48h": 3,
-    "top": "SMM",
-    "top_vol24h": 1108,
-    "top_fdv": 1886,
+    "count": 2,
+    "new48h": 1,
+    "top": "RODGERS",
+    "top_vol24h": 277,
+    "top_fdv": 1963,
     "top_liq": 0,
-    "top_chg24h": -17.84
+    "top_chg24h": -11.97
    },
-   "potential": 22,
+   "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -213,12 +223,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "when did savannah guthrie's mom disappear",
+   "term": "will shipley",
    "sources": [
     "Google Trends"
    ],
@@ -229,51 +239,29 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Aaron Rodgers",
+   "term": "NFT",
    "sources": [
-    "Wikipedia"
+    "CoinGecko"
    ],
-   "strength": 68,
+   "strength": 83,
    "coins": {
-    "count": 5,
-    "new48h": 4,
-    "top": "RODGERS",
-    "top_vol24h": 1780,
-    "top_fdv": 1963,
-    "top_liq": 0,
-    "top_chg24h": -12.05
-   },
-   "potential": 18,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Grand Theft Auto VI",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 88,
-   "coins": {
-    "count": 26,
-    "new48h": 3,
-    "top": "GTAVI",
-    "top_vol24h": 875,
-    "top_fdv": 2651,
-    "top_liq": 2970,
-    "top_chg24h": -13.19
+    "count": 20,
+    "new48h": 5,
+    "top": "NFT",
+    "top_vol24h": 6602,
+    "top_fdv": 2042,
+    "top_liq": 1612,
+    "top_chg24h": 30
    },
    "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795702356.2907152,
+   "assessed_at": 1795734019.6184013,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
