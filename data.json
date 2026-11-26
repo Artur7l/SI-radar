@@ -1,25 +1,25 @@
 {
- "updated": 1795666550.731662,
+ "updated": 1795702356.2907152,
  "trends": [
   {
-   "term": "Miss Universe 2026",
+   "term": "Made in USA",
    "sources": [
-    "Wikipedia"
+    "CoinGecko"
    ],
    "strength": 100,
    "coins": {
-    "count": 3,
-    "new48h": 2,
-    "top": "Jennifer",
-    "top_vol24h": 6520,
-    "top_fdv": 1893,
+    "count": 2,
+    "new48h": 1,
+    "top": "XIUSA",
+    "top_vol24h": 73,
+    "top_fdv": 1858,
     "top_liq": 0,
-    "top_chg24h": -7.33
+    "top_chg24h": -2.73
    },
    "potential": 36,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -30,23 +30,23 @@
    ],
    "strength": 96,
    "coins": {
-    "count": 2,
-    "new48h": 2,
-    "top": "Ezra",
-    "top_vol24h": 497,
-    "top_fdv": 1897,
+    "count": 1,
+    "new48h": 1,
+    "top": "EzraFrech",
+    "top_vol24h": 159,
+    "top_fdv": 1870,
     "top_liq": 0,
-    "top_chg24h": -16.13
+    "top_chg24h": -2.21
    },
    "potential": 34,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "john madden",
+   "term": "mortgage rates today",
    "sources": [
     "Google Trends"
    ],
@@ -57,14 +57,14 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Pons Launchpad",
+   "term": "Miss Universe 2026",
    "sources": [
-    "CoinGecko"
+    "Wikipedia"
    ],
    "strength": 100,
    "coins": {
@@ -73,29 +73,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "jennifer garner",
-   "sources": [
-    "Google Trends"
-   ],
-   "strength": 80,
-   "coins": {
-    "count": 1,
-    "new48h": 1,
-    "top": "JGT",
-    "top_vol24h": 7,
-    "top_fdv": 1988,
-    "top_liq": 0,
-    "top_chg24h": -0.33
-   },
-   "potential": 28,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -111,12 +89,12 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "sacramento kings vs golden state warriors match player stats",
+   "term": "lululemon black friday",
    "sources": [
     "Google Trends"
    ],
@@ -127,7 +105,29 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Mike McCarthy",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 76,
+   "coins": {
+    "count": 1,
+    "new48h": 1,
+    "top": "COOKED",
+    "top_vol24h": 440,
+    "top_fdv": 1979,
+    "top_liq": 0,
+    "top_chg24h": -11.81
+   },
+   "potential": 27,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -143,7 +143,23 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "good morning america",
+   "sources": [
+    "Google Trends"
+   ],
+   "strength": 80,
+   "coins": {
+    "count": 0
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -159,7 +175,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -181,23 +197,7 @@
    "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Mike McCarthy",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 76,
-   "coins": {
-    "count": 0
-   },
-   "potential": 22,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -213,12 +213,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "damian lillard",
+   "term": "when did savannah guthrie's mom disappear",
    "sources": [
     "Google Trends"
    ],
@@ -229,7 +229,7 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -251,7 +251,7 @@
    "potential": 18,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -262,7 +262,7 @@
    ],
    "strength": 88,
    "coins": {
-    "count": 29,
+    "count": 26,
     "new48h": 3,
     "top": "GTAVI",
     "top_vol24h": 875,
@@ -273,7 +273,7 @@
    "potential": 15,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795666550.731662,
+   "assessed_at": 1795702356.2907152,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
