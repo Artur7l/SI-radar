@@ -1,52 +1,8 @@
 {
- "updated": 1795791897.1220973,
+ "updated": 1795822030.3868253,
  "trends": [
   {
-   "term": "Mike McCarthy",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 92,
-   "coins": {
-    "count": 10,
-    "new48h": 10,
-    "top": "Packers",
-    "top_vol24h": 236822,
-    "top_fdv": 64951,
-    "top_liq": 14,
-    "top_chg24h": 374
-   },
-   "potential": 36,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Aaron Rodgers",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 96,
-   "coins": {
-    "count": 1,
-    "new48h": 0,
-    "top": "Rodgers",
-    "top_vol24h": 41,
-    "top_fdv": 1994,
-    "top_liq": 0,
-    "top_chg24h": null
-   },
-   "potential": 34,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "pga tour",
+   "term": "brock purdy",
    "sources": [
     "Google Trends"
    ],
@@ -57,7 +13,7 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -73,12 +29,12 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Real World Assets (RWA)",
+   "term": "Montra Launchpad",
    "sources": [
     "CoinGecko"
    ],
@@ -89,12 +45,28 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "green bay packers statement martha ford",
+   "term": "Aaron Rodgers",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 96,
+   "coins": {
+    "count": 0
+   },
+   "potential": 28,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795822030.3868253,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "steelers nfl standings",
    "sources": [
     "Google Trends"
    ],
@@ -105,7 +77,7 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -121,7 +93,7 @@
    "potential": 26,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -137,12 +109,34 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Made in USA",
+   "term": "Mike McCarthy",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 92,
+   "coins": {
+    "count": 11,
+    "new48h": 11,
+    "top": "Packers",
+    "top_vol24h": 236822,
+    "top_fdv": 64951,
+    "top_liq": 14,
+    "top_chg24h": 374
+   },
+   "potential": 24,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795822030.3868253,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Gaming Platform",
    "sources": [
     "CoinGecko"
    ],
@@ -153,12 +147,12 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "hackers breach air force",
+   "term": "heat vs knicks",
    "sources": [
     "Google Trends"
    ],
@@ -169,7 +163,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -185,7 +179,7 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -201,12 +195,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "ron harper",
+   "term": "cody schrader",
    "sources": [
     "Google Trends"
    ],
@@ -217,7 +211,29 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Grand Theft Auto VI",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 76,
+   "coins": {
+    "count": 22,
+    "new48h": 6,
+    "top": "GTAVI",
+    "top_vol24h": 92360,
+    "top_fdv": 1416,
+    "top_liq": 1444,
+    "top_chg24h": -95.7
+   },
+   "potential": 20,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
@@ -233,29 +249,7 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Grand Theft Auto VI",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 76,
-   "coins": {
-    "count": 17,
-    "new48h": 2,
-    "top": "GTAVI",
-    "top_vol24h": 1007,
-    "top_fdv": 11252,
-    "top_liq": 7102,
-    "top_chg24h": -30.05
-   },
-   "potential": 13,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795791897.1220973,
+   "assessed_at": 1795822030.3868253,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
