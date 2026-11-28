@@ -1,8 +1,52 @@
 {
- "updated": 1795822030.3868253,
+ "updated": 1795841619.4064524,
  "trends": [
   {
-   "term": "brock purdy",
+   "term": "Joe Milton",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 2,
+    "new48h": 2,
+    "top": "JMS",
+    "top_vol24h": 429,
+    "top_fdv": 395,
+    "top_liq": 0,
+    "top_chg24h": -80.82
+   },
+   "potential": 36,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795841619.4064524,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "Grand Theft Auto VI",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 72,
+   "coins": {
+    "count": 24,
+    "new48h": 7,
+    "top": "GTAVI",
+    "top_vol24h": 185302,
+    "top_fdv": 69456,
+    "top_liq": 111316,
+    "top_chg24h": 55.26
+   },
+   "potential": 34,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795841619.4064524,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "texas college football standings",
    "sources": [
     "Google Trends"
    ],
@@ -13,44 +57,34 @@
    "potential": 30,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Andy Taylor (guitarist)",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 100,
-   "coins": {
-    "count": 0
-   },
-   "potential": 30,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Montra Launchpad",
+   "term": "SocialFi",
    "sources": [
     "CoinGecko"
    ],
-   "strength": 100,
+   "strength": 83,
    "coins": {
-    "count": 0
+    "count": 1,
+    "new48h": 0,
+    "top": "SocialFi",
+    "top_vol24h": 133,
+    "top_fdv": 1720,
+    "top_liq": 1879,
+    "top_chg24h": -11.05
    },
-   "potential": 30,
+   "potential": 29,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Aaron Rodgers",
+   "term": ".xxx",
    "sources": [
     "Wikipedia"
    ],
@@ -61,12 +95,28 @@
    "potential": 28,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "steelers nfl standings",
+   "term": "Mason Rudolph (American football)",
+   "sources": [
+    "Wikipedia"
+   ],
+   "strength": 92,
+   "coins": {
+    "count": 0
+   },
+   "potential": 27,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795841619.4064524,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "gonzaga basketball",
    "sources": [
     "Google Trends"
    ],
@@ -77,12 +127,12 @@
    "potential": 27,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Duran Duran",
+   "term": "Elizabeth Holmes",
    "sources": [
     "Wikipedia"
    ],
@@ -93,12 +143,34 @@
    "potential": 26,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Wu-Tang Clan",
+   "term": "AI Agents",
+   "sources": [
+    "CoinGecko"
+   ],
+   "strength": 100,
+   "coins": {
+    "count": 14,
+    "new48h": 9,
+    "top": "AAC",
+    "top_vol24h": 111048,
+    "top_fdv": 1387,
+    "top_liq": 1418,
+    "top_chg24h": -95.39
+   },
+   "potential": 25,
+   "verdict": "Niedrig",
+   "mode": "Regeln",
+   "assessed_at": 1795841619.4064524,
+   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
+   "risk": "Memecoins verlieren oft schnell an Wert."
+  },
+  {
+   "term": "List of highest-grossing Indian films",
    "sources": [
     "Wikipedia"
    ],
@@ -109,50 +181,12 @@
    "potential": 25,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Mike McCarthy",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 92,
-   "coins": {
-    "count": 11,
-    "new48h": 11,
-    "top": "Packers",
-    "top_vol24h": 236822,
-    "top_fdv": 64951,
-    "top_liq": 14,
-    "top_chg24h": 374
-   },
-   "potential": 24,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Gaming Platform",
-   "sources": [
-    "CoinGecko"
-   ],
-   "strength": 83,
-   "coins": {
-    "count": 0
-   },
-   "potential": 24,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "heat vs knicks",
+   "term": "mega millions numbers",
    "sources": [
     "Google Trends"
    ],
@@ -163,12 +197,12 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "List of highest-grossing Indian films",
+   "term": "Ansel Adams",
    "sources": [
     "Wikipedia"
    ],
@@ -179,28 +213,28 @@
    "potential": 24,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Ezra Frech",
+   "term": "Aaron Rodgers",
    "sources": [
     "Wikipedia"
    ],
-   "strength": 72,
+   "strength": 76,
    "coins": {
     "count": 0
    },
-   "potential": 21,
+   "potential": 22,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "cody schrader",
+   "term": "devon dampier",
    "sources": [
     "Google Trends"
    ],
@@ -211,34 +245,12 @@
    "potential": 21,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   },
   {
-   "term": "Grand Theft Auto VI",
-   "sources": [
-    "Wikipedia"
-   ],
-   "strength": 76,
-   "coins": {
-    "count": 22,
-    "new48h": 6,
-    "top": "GTAVI",
-    "top_vol24h": 92360,
-    "top_fdv": 1416,
-    "top_liq": 1444,
-    "top_chg24h": -95.7
-   },
-   "potential": 20,
-   "verdict": "Niedrig",
-   "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
-   "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
-   "risk": "Memecoins verlieren oft schnell an Wert."
-  },
-  {
-   "term": "Elizabeth Holmes",
+   "term": "You Can See Everything",
    "sources": [
     "Wikipedia"
    ],
@@ -249,7 +261,7 @@
    "potential": 20,
    "verdict": "Niedrig",
    "mode": "Regeln",
-   "assessed_at": 1795822030.3868253,
+   "assessed_at": 1795841619.4064524,
    "reason": "Regelbasierte Schätzung aus Trendstärke, vorhandenen Coins und Volumen.",
    "risk": "Memecoins verlieren oft schnell an Wert."
   }
